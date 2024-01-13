@@ -36,6 +36,6 @@ $ npm install
 
 ```bash
 
-# production mode
-$ npm run start:prod
+# dev mode
+$ npm run start:dev
 ```
